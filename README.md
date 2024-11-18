@@ -35,7 +35,7 @@ Secrets Manager | EC2 | FCM
 
 #### Software Engineer at 75way Technologies
 - 📍 Panchkula, India
-- 📈 Key Technologies: React.js, Express.js, MongoDB, Node.js, AWS Lambda, AWS Amplify.
+- 📈 Key Technologies: React.js, Express.js, MongoDB, Node.js, Angular, AWS Lambda, AWS Amplify.
 - 📌 Responsibilities: Creating Apis in mongoosejs using MongoDB, making UI in React.js, Angular, api integrations.
 
 #### Software Engineer at Promatics Technologies

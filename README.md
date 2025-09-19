@@ -47,4 +47,5 @@ Secrets Manager | EC2 | FCM
 
 ### 🌐 Connect with Me
 - LinkedIn: [Lets roll](https://www.linkedin.com/in/rohitsoni007/)
+- Portfolio: [View my portfolio](https://rohitsoni.dev/)
 

@@ -1,8 +1,3 @@
-Here’s a beautified and enhanced version of your README, merging your current details with a colorful, modern design, personal branding, and project highlights. This version preserves all your technical and professional info, adds visual flair, and puts emphasis on your stack, favorite projects, and social presence.
-
-If you’d like, I can push this directly to your repo, or you can copy and use it yourself!
-
-````markdown name=README.md url=https://github.com/rohitsoni-dev/rohitsoni-dev/blob/08555c5795ff378915681a38692d540f4ca5f78f/README.md
 <!-- Profile README for rohitsoni-dev -->
 
 <div align="center">
@@ -100,6 +95,3 @@ HTML5 | CSS3 | Bootstrap4 | Javascript | Typescript | Redux | Material UI | Fire
 </div>
 
 ---
-````
-
-Would you like me to update this directly in your repo? Or do you want to review or tweak anything first?

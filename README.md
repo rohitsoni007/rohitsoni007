@@ -19,7 +19,7 @@
 
 ### 🚀 About Me
 
-- 🌈 Passionate about building scalable web apps and mobile experiences
+- 🚀 Passionate about building scalable web apps and mobile experiences
 - 🛠️ Constantly exploring new technologies and frameworks
 - 🤓 Coding geek who loves solving complex problems
 

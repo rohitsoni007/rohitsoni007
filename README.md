@@ -81,8 +81,8 @@ HTML5 | CSS3 | Bootstrap4 | Javascript | Typescript | Redux | Material UI | Fire
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rohitsoni-dev)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://rohitsoni-dev.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rohitsoni007)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://rohitsoni007.github.io/portfolio)
 
 ---
 

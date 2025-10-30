@@ -1,4 +1,4 @@
-<!-- Profile README for rohitsoni-dev -->
+<!-- Profile README for rohitsoni007 -->
 
 <div align="center">
 
@@ -45,8 +45,8 @@ HTML5 | CSS3 | Bootstrap4 | Javascript | Typescript | Redux | Material UI | Fire
 
 | Project | Description | Repo Link |
 | ------- | ----------- | --------- |
-| **CV Builder** | Modern resume builder with export & customization features | [cvbuilder-assessment](https://github.com/rohitsoni-dev/cvbuilder-assessment) |
-| **Task Management Dashboard** | Powerful dashboard for managing tasks, inspired by Jira | [jira](https://github.com/rohitsoni-dev/jira) |
+| **CV Builder** | Modern resume builder with export & customization features | [cvbuilder-assessment](https://github.com/rohitsoni007/cvbuilder-assessment) |
+| **Task Management Dashboard** | Powerful dashboard for managing tasks, inspired by Jira | [jira](https://github.com/rohitsoni007/jira) |
 
 ---
 
@@ -87,11 +87,11 @@ HTML5 | CSS3 | Bootstrap4 | Javascript | Typescript | Redux | Material UI | Fire
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohitsoni-dev&style=flat-square&color=brightgreen" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=rohitsoni007&style=flat-square&color=brightgreen" alt="Profile views"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitsoni-dev&show_icons=true&theme=radical" alt="Rohit Soni's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitsoni007&show_icons=true&theme=radical" alt="Rohit Soni's GitHub stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsoni-dev&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsoni007&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ---

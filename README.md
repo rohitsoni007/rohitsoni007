@@ -35,7 +35,7 @@
 | ------- | --------- |
 | **Shadcn Admin Panel Template** | [shadcn-admin](https://github.com/rohitsoni007/shadcn-admin) |
 | **Electron + shadcn/ui Template** | [electron-shadcn](https://github.com/rohitsoni007/electron-shadcn) |
-| **MCP Gearbox** | [mcp-gearbox-cli](https://github.com/rohitsoni007/mcp-gearbox-cli) |
+| **MCP Gearbox CLI** | [mcp-gearbox-cli](https://github.com/rohitsoni007/mcp-gearbox-cli) |
 
 ---
 

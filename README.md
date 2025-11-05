@@ -17,14 +17,6 @@
 
 ---
 
-### 🚀 About Me
-
-- 🚀 Passionate about building scalable web apps and mobile experiences
-- 🛠️ Constantly exploring new technologies and frameworks
-- 🤓 Coding geek who loves solving complex problems
-
----
-
 ### 🛠️ Technical Skills
 
 - **Front-end:** React.js, Next.js, Angular, Vue.js
@@ -35,10 +27,6 @@
 - **Mobile:** React Native
 - **Others:** AWS Lambda, AWS Amplify
 
-#### 🧰 Other Tools & Frameworks
-
-HTML5 | CSS3 | Bootstrap4 | Javascript | Typescript | Redux | Material UI | Firebase Firestore | Mongoose | Sequelize | Prisma | Jest | React Testing Library | AWS | Lambda | Serverless | Amplify | AppSync | DynamoDB | Cognito | RDS | ElastiCache | CloudWatch | Transcribe | S3 Bucket | API Gateway | Secrets Manager | EC2 | FCM
-
 ---
 
 ### 🌟 Favorite Projects
@@ -47,6 +35,7 @@ HTML5 | CSS3 | Bootstrap4 | Javascript | Typescript | Redux | Material UI | Fire
 | ------- | --------- |
 | **Shadcn Admin Panel Template** | [shadcn-admin](https://github.com/rohitsoni007/shadcn-admin) |
 | **Electron + shadcn/ui Template** | [electron-shadcn](https://github.com/rohitsoni007/electron-shadcn) |
+| **MCP Gearbox** | [mcp-gearbox-cli](https://github.com/rohitsoni007/mcp-gearbox-cli) |
 
 ---
 

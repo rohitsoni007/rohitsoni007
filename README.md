@@ -29,16 +29,6 @@
 
 ---
 
-### 🌟 Favorite Projects
-
-| Project | Repo Link |
-| ------- | --------- |
-| **Shadcn Admin Panel Template** | [shadcn-admin](https://github.com/rohitsoni007/shadcn-admin) |
-| **Electron + shadcn/ui Template** | [electron-shadcn](https://github.com/rohitsoni007/electron-shadcn) |
-| **MCP Gearbox CLI** | [mcp-gearbox-cli](https://github.com/rohitsoni007/mcp-gearbox-cli) |
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rohitsoni007&style=flat-square&color=brightgreen" alt="Profile views"/>
   <br>

@@ -39,35 +39,6 @@
 
 ---
 
-### 🎓 Education
-
-- **Master of Computer Applications (MCA)**
-  - Lovely Professional University, Phagwara, India
-
-- **B.Sc. in Information Technology**
-  - Punjab Technical University, Jalandhar, India
-
----
-
-### 💼 Professional Experience
-
-#### Senior Software Engineer at Matrix Marketers
-- 📍 Mohali, India
-- 📈 Key Technologies: React.js, Express.js, MongoDB, Node.js, Nest.js, AWS Lambda, AWS Amplify
-- 📌 Responsibilities: Creating APIs in Sequelize using MySQL and MongooseJS using MongoDB
-
-#### Software Engineer at 75way Technologies
-- 📍 Panchkula, India
-- 📈 Key Technologies: React.js, Express.js, MongoDB, Node.js, Angular, AWS Lambda, AWS Amplify
-- 📌 Responsibilities: Creating APIs in MongooseJS using MongoDB, making UI in React.js & Angular, API integrations
-
-#### Software Engineer at Promatics Technologies
-- 📍 Ludhiana, India
-- 📈 Key Technologies: Express.js, MySQL, Node.js, Angular, Sequelize
-- 📌 Responsibilities: Creating APIs in Sequelize using MySQL, making UI in Angular, API integrations
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rohitsoni007&style=flat-square&color=brightgreen" alt="Profile views"/>
   <br>

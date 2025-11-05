@@ -43,10 +43,10 @@ HTML5 | CSS3 | Bootstrap4 | Javascript | Typescript | Redux | Material UI | Fire
 
 ### 🌟 Favorite Projects
 
-| Project | Description | Repo Link |
-| ------- | ----------- | --------- |
-| **CV Builder** | Modern resume builder with export & customization features | [cvbuilder-assessment](https://github.com/rohitsoni007/cvbuilder-assessment) |
-| **Task Management Dashboard** | Powerful dashboard for managing tasks, inspired by Jira | [jira](https://github.com/rohitsoni007/jira) |
+| Project | Repo Link |
+| ------- | --------- |
+| **Shadcn Admin Panel Template** | [shadcn-admin](https://github.com/rohitsoni007/shadcn-admin) |
+| **Electron + shadcn/ui Template** | [electron-shadcn](https://github.com/rohitsoni007/electron-shadcn) |
 
 ---
 
@@ -76,13 +76,6 @@ HTML5 | CSS3 | Bootstrap4 | Javascript | Typescript | Redux | Material UI | Fire
 - 📍 Ludhiana, India
 - 📈 Key Technologies: Express.js, MySQL, Node.js, Angular, Sequelize
 - 📌 Responsibilities: Creating APIs in Sequelize using MySQL, making UI in Angular, API integrations
-
----
-
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rohitsoni007)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://rohitsoni007.github.io/portfolio)
 
 ---
 

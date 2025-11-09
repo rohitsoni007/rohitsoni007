@@ -5,11 +5,12 @@
 
 <div align="center">
 
-### 💻 Full-Stack Developer | ⚙️ CLI Engineer | 🧠 MCP Systems Builder  
-Building next-gen developer tools and AI agent infrastructure.
+  <img src="./src/header_.png" alt="Header" width="800"/>
 
-<img src="./src/header_.png" alt="Header" width="800"/>
+  <!--   my-ticker -->    
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+Welcome+to+My+Profile!;+Full+stack+developer;+MERN+stack+developer;+React+native+developer)](https://git.io/typing-svg)
 
+</div>
 ---
 
 ## 🧠 Tech Stack

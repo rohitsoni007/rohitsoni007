@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
   <br><br>
   <!--   my-header-img -->
-![](./src/header_.png)
+![](src/header_.png)
   <h1>Hi there, I'm Rohit Soni 👋</h1>
   <p>Full-Stack Developer | MERN & MEAN Stack Enthusiast | Code Composer</p>
 </div>

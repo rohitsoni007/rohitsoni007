@@ -1,20 +1,10 @@
 <!-- Profile README for rohitsoni007 -->
 
 <div align="center">
-
-  <img src="https://img.shields.io/badge/MERN%20%26%20MEAN%20Stack-Expert-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Coding%20Geek-%F0%9F%92%A1-ff69b4?style=for-the-badge"/>
-  <br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <br><br>
-  <!--   my-header-img -->
-![](src/header_.png)
   <h1>Hi there, I'm Rohit Soni 👋</h1>
   <p>Full-Stack Developer | MERN & MEAN Stack Enthusiast | Code Composer</p>
+  <!--   my-header-img -->
+  <img src="./src/header_.png" alt="My Header"/>
 </div>
 
 ---
@@ -36,9 +26,9 @@
 
 | Project | Tech Stack | Links |
 |----------|-------------|--------|
-| **🧠 MCP Gearbox CLI** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Commander.js](https://img.shields.io/badge/-Commander.js-000000?logo=nodedotjs&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/mcp-gearbox-cli) |
+| **🧠 MCP Gearbox CLI** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/mcp-gearbox-cli) |
 | **🧩 MCP Gearbox** | ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Shadcn/UI](https://img.shields.io/badge/-Shadcn_UI-000000?logo=shadcn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/mcp-gearbox) |
-| **⚡ Electron Shadcn** | ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/electron-shadcn) |
+| **⚡ Electron Shadcn** | ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Shadcn/UI](https://img.shields.io/badge/-Shadcn_UI-000000?logo=shadcn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/electron-shadcn) |
 | **🧭 Shadcn Admin** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Shadcn/UI](https://img.shields.io/badge/-Shadcn_UI-000000?logo=shadcn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/shadcn-admin) |
 | **🚀 GoCommander** | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![WASM](https://img.shields.io/badge/-WebAssembly-654FF0?logo=webassembly&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/gocommander) |
 

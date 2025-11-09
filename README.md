@@ -4,13 +4,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=Rohit%20Soni%20👨‍💻&fontAlign=50&fontAlignY=35&color=gradient)
 
 <div align="center">
-
   <img src="./src/header_.png" alt="Header" width="800"/>
+</div>
 
   <!--   my-ticker -->    
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+Welcome+to+My+Profile!;+Full+stack+developer;+MERN+stack+developer;+React+native+developer)](https://git.io/typing-svg)
 
-</div>
 ---
 
 ## 🧠 Tech Stack

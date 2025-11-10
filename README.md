@@ -7,8 +7,6 @@
   <a href="https://github.com/facebook/react"><img src="https://img.shields.io/badge/React-19.2-FF1493.svg"></a>
   <a href="https://github.com/nodejs/node"><img src="https://img.shields.io/badge/Node.js-24.1-339933.svg"></a>
   <a href="https://github.com/mongodb/mongo"><img src="https://img.shields.io/badge/MongoDB-8.0-47A248.svg"></a>
-  <a href="https://github.com/expressjs/express"><img src="https://img.shields.io/badge/Express-5.1-000000.svg"></a>
-  <a href="https://github.com/nestjs/nest"><img src="https://img.shields.io/badge/NestJS-11.1-E0234E.svg"></a>
   <a href="https://github.com/vercel/next.js"><img src="https://img.shields.io/badge/Next.js-16.0-000000.svg"></a>
   <a href="https://github.com/tailwindlabs/tailwindcss"><img src="https://img.shields.io/badge/Tailwind-4.1-06B6D4.svg"></a>
   <a href="https://github.com/facebook/react-native"><img src="https://img.shields.io/badge/ReactNative-0.82-61DAFB.svg"></a>

@@ -19,7 +19,6 @@
   <!--   my-ticker -->    
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+Welcome+to+My+Profile!;+Full+stack+developer;+MERN+MEAN+stack+developer;+React+native+developer;Node.js+developer;+Scalable+web+mobile+apps)](https://git.io/typing-svg)
 
----
 
 ## 🧠 Tech Stack
 
@@ -34,7 +33,6 @@
 | **Others**    | ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?logo=serverless&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?logo=aws-lambda&logoColor=white) ![S3 Bucket](https://img.shields.io/badge/-S3_Bucket-569A31?logo=amazons3&logoColor=white) ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white) ![Customer.io](https://img.shields.io/badge/-Customer.io-000000?logo=customer.io&logoColor=white) |
 | **Learning New Things**    | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white) ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)  ![WASM](https://img.shields.io/badge/-WebAssembly-654FF0?logo=webassembly&logoColor=white) |
 
----
 
 ## 💎 Favorite Projects
 
@@ -47,14 +45,12 @@
 | **⚡ Electron Shadcn Starter** | ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white) ![Electron Forge](https://img.shields.io/badge/-Electron_Forge-47848F?logo=electron&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Shadcn/UI](https://img.shields.io/badge/-Shadcn_UI-000000?logo=shadcn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/electron-shadcn) |
 | **🚀 GoCommander** | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![WASM](https://img.shields.io/badge/-WebAssembly-654FF0?logo=webassembly&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/gocommander) |
 
----
 
 ## 🌍 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitsoni007)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://rohitsoni007.github.io/portfolio)
 
----
 
 ## 📊 GitHub Stats & Activity
 
@@ -63,7 +59,6 @@
 | <img src="https://github-readme-stats.vercel.app/api?username=rohitsoni007&show_icons=true&theme=radical" alt="GitHub Stats" width="100%"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsoni007&theme=radical" alt="GitHub Streak" width="100%"/> |
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitsoni007&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
 
----
 
 <!-- 🌈 FOOTER -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient)

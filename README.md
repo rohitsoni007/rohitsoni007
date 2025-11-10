@@ -13,10 +13,6 @@
   <a href="https://github.com/microsoft/TypeScript"><img src="https://img.shields.io/badge/TypeScript-5.9-3178C6.svg"></a>
   <a href="https://github.com/tailwindlabs/tailwindcss"><img src="https://img.shields.io/badge/Tailwind-4.1-06B6D4.svg"></a>
   <a href="https://github.com/facebook/react-native"><img src="https://img.shields.io/badge/ReactNative-0.82-61DAFB.svg"></a>
-  <a href="https://github.com/electron/electron"><img src="https://img.shields.io/badge/Electron-39.0-47848F.svg"></a>
-  <a href="https://github.com/TanStack/router"><img src="https://img.shields.io/badge/TanStackRouter-1.134-FF1493.svg"></a>
-  <a href="https://github.com/react-hook-form/react-hook-form"><img src="https://img.shields.io/badge/ReactHookForm-7.66-EC5990.svg"></a>
-  <a href="https://github.com/TanStack/query"><img src="https://img.shields.io/badge/TanStackQuery-5.90-FF4154.svg"></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rohitsoni007.rohitsoni007" alt="visitors"/>  
   <img src="./src/header_.png" alt="Header" width="800"/>
 </div>
@@ -48,8 +44,8 @@
 | **🧠 MCP Gearbox CLI** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/mcp-gearbox-cli) |
 | **🧩 MCP Gearbox** | ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Shadcn/UI](https://img.shields.io/badge/-Shadcn_UI-000000?logo=shadcn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/mcp-gearbox) |
 | **📦 MCP Gearbox JS** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/mcp-gearbox-js) |
-| **🧭 Shadcn Admin Starter Template** | ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Shadcn/UI](https://img.shields.io/badge/-Shadcn_UI-000000?logo=shadcn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/shadcn-admin) |
-| **⚡ Electron Shadcn Starter Template** | ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white) ![Electron Forge](https://img.shields.io/badge/-Electron_Forge-47848F?logo=electron&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Shadcn/UI](https://img.shields.io/badge/-Shadcn_UI-000000?logo=shadcn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/electron-shadcn) |
+| **🧭 Shadcn Admin Starter ** | ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Shadcn/UI](https://img.shields.io/badge/-Shadcn_UI-000000?logo=shadcn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/shadcn-admin) |
+| **⚡ Electron Shadcn Starter ** | ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white) ![Electron Forge](https://img.shields.io/badge/-Electron_Forge-47848F?logo=electron&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Shadcn/UI](https://img.shields.io/badge/-Shadcn_UI-000000?logo=shadcn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/electron-shadcn) |
 | **🚀 GoCommander** | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![WASM](https://img.shields.io/badge/-WebAssembly-654FF0?logo=webassembly&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/gocommander) |
 
 ---
@@ -65,7 +61,7 @@
 
 | . | . |
 |---|---|
-| <img src="https://github-readme-stats.vercel.app/api?username=rohitsoni007&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsoni007&theme=radical" alt="GitHub Streak" width="48%"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=rohitsoni007&show_icons=true&theme=radical" alt="GitHub Stats" width="100%"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsoni007&theme=radical" alt="GitHub Streak" width="100%"/> |
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitsoni007&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
 
 ---

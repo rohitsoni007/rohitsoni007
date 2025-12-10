@@ -41,7 +41,7 @@
 | **📦 MCP Gearbox JS** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/mcp-gearbox-js) |
 | **🧭 Shadcn Admin Starter** | ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Shadcn/UI](https://img.shields.io/badge/-Shadcn_UI-000000?logo=shadcn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/shadcn-admin) |
 | **⚡ Electron Shadcn Starter** | ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white) ![Electron Forge](https://img.shields.io/badge/-Electron_Forge-47848F?logo=electron&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Shadcn/UI](https://img.shields.io/badge/-Shadcn_UI-000000?logo=shadcn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/electron-shadcn) |
-| **🚀 GoCommander** | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/gocommander) |
+| **🚀 Express Microservices Starter** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/express-microservice) |
 | **🎨 Expo NativeWind Starter** | ![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white) ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/expo-nativewind) |
 
 
@@ -53,9 +53,6 @@
 
 ## 📊 GitHub Stats & Activity
 
-| . | . |
-|---|---|
-| <img src="https://github-readme-stats.vercel.app/api?username=rohitsoni007&show_icons=true&theme=radical" alt="GitHub Stats" width="100%"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsoni007&theme=radical" alt="GitHub Streak" width="100%"/> |
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitsoni007&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
 
 

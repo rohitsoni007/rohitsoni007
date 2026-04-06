@@ -14,22 +14,30 @@
   <img src="./src/header_.png" alt="Header" width="800"/>
 </div>
 
-  <!--   my-ticker -->    
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+Welcome+to+My+Profile!;+Full+stack+developer;+MERN+MEAN+stack+developer;+React+native+developer;Node.js+developer;+Scalable+web+mobile+apps)](https://git.io/typing-svg)
+<!-- my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+Welcome+to+My+Profile!;+Full+stack+developer;+MERN+MEAN+stack+developer;+React+native+developer;Node.js+developer;+Scalable+web+mobile+apps)](https://git.io/typing-svg)
+
+
+## 🚧 Currently Building
+
+- 🧩 **Vulkan Overlay Framework**  
+  A modular framework that allows modders and plugin developers to render custom UI directly in the Vulkan final layer (post-processing stage).  
+  Focused on performance, flexibility, and seamless game integration.
 
 
 ## 🧠 Tech Stack
 
 | Category     | Technologies |
 |---------------|--------------|
-| **Front-end** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) |
+| **Front-end** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white) |
 | **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+| **Graphics / Systems** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![Vulkan](https://img.shields.io/badge/-Vulkan-AC162C?logo=vulkan&logoColor=white) ![DirectX](https://img.shields.io/badge/-DirectX-0078D6?logo=microsoft&logoColor=white) ![FSR1](https://img.shields.io/badge/-FSR1-FF6600?logo=amd&logoColor=white) ![FSR2](https://img.shields.io/badge/-FSR2-FF6600?logo=amd&logoColor=white) ![FSR3.1](https://img.shields.io/badge/-FSR3.1-FF6600?logo=amd&logoColor=white) ![DLSS](https://img.shields.io/badge/-DLSS-76B900?logo=nvidia&logoColor=white) |
 | **Back-end**  | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white) ![Sequelize](https://img.shields.io/badge/-Sequelize-337AB7?logo=sequelize&logoColor=white) ![TypeORM](https://img.shields.io/badge/-TypeORM-FF6B6B?logo=typeorm&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white) |
 | **Database**  | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
 | **Mobile**    | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white) |
 | **CI/CD**     | ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white) |
 | **Others**    | ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?logo=serverless&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?logo=aws-lambda&logoColor=white) ![S3 Bucket](https://img.shields.io/badge/-S3_Bucket-569A31?logo=amazons3&logoColor=white) ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white) ![Customer.io](https://img.shields.io/badge/-Customer.io-000000?logo=customer.io&logoColor=white) |
-| **Learning New Things**    | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white) ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)  |
+| **Learning New Things**    | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) |
 
 
 ## 💎 Favorite Projects

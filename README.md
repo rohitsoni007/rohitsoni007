@@ -18,20 +18,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+Welcome+to+My+Profile!;+Full+stack+developer;+MERN+MEAN+stack+developer;+React+native+developer;Node.js+developer;+Scalable+web+mobile+apps)](https://git.io/typing-svg)
 
 
-## 🚧 Currently Building
-
-- 🧩 **Vulkan Overlay Framework**  
-  A modular framework that allows modders and plugin developers to render custom UI directly in the Vulkan final layer (post-processing stage).  
-  Focused on performance, flexibility, and seamless game integration.
-
-
 ## 🧠 Tech Stack
 
 | Category     | Technologies |
 |---------------|--------------|
+| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
 | **Front-end** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white) |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
-| **Graphics / Systems** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![Vulkan](https://img.shields.io/badge/-Vulkan-AC162C?logo=vulkan&logoColor=white) ![DirectX](https://img.shields.io/badge/-DirectX-0078D6?logo=microsoft&logoColor=white) ![FSR1](https://img.shields.io/badge/-FSR1-FF6600?logo=amd&logoColor=white) ![FSR2](https://img.shields.io/badge/-FSR2-FF6600?logo=amd&logoColor=white) ![FSR3.1](https://img.shields.io/badge/-FSR3.1-FF6600?logo=amd&logoColor=white) ![DLSS](https://img.shields.io/badge/-DLSS-76B900?logo=nvidia&logoColor=white) |
+| **Graphics / Systems** | ![Vulkan](https://img.shields.io/badge/-Vulkan-AC162C?logo=vulkan&logoColor=white) ![DirectX](https://img.shields.io/badge/-DirectX-0078D6?logo=microsoft&logoColor=white) ![FSR1](https://img.shields.io/badge/-FSR1-FF6600?logo=amd&logoColor=white) ![FSR2](https://img.shields.io/badge/-FSR2-FF6600?logo=amd&logoColor=white) ![FSR3.1](https://img.shields.io/badge/-FSR3.1-FF6600?logo=amd&logoColor=white) ![DLSS](https://img.shields.io/badge/-DLSS-76B900?logo=nvidia&logoColor=white) ![ImGui](https://img.shields.io/badge/-ImGui-011627?logo=imgui&logoColor=white) |
 | **Back-end**  | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white) ![Sequelize](https://img.shields.io/badge/-Sequelize-337AB7?logo=sequelize&logoColor=white) ![TypeORM](https://img.shields.io/badge/-TypeORM-FF6B6B?logo=typeorm&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white) |
 | **Database**  | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
 | **Mobile**    | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white) |
@@ -44,15 +37,14 @@
 
 | Project | Tech Stack | Links |
 |----------|-------------|--------|
+| **🎮 GamePlug** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![ImGui](https://img.shields.io/badge/-ImGui-011627?logo=imgui&logoColor=white) ![DirectX](https://img.shields.io/badge/-DirectX-0078D6?logo=microsoft&logoColor=white) ![Vulkan](https://img.shields.io/badge/-Vulkan-AC162C?logo=vulkan&logoColor=white) | [🔗 GitHub](https://github.com/gameplug-labs/gameplug) |
 | **🧩 MCP Gearbox** | ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Shadcn/UI](https://img.shields.io/badge/-Shadcn_UI-000000?logo=shadcn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/mcp-gearbox) |
 | **🧭 Shadcn Admin Starter** | ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Shadcn/UI](https://img.shields.io/badge/-Shadcn_UI-000000?logo=shadcn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/shadcn-admin) |
 | **⚡ Electron Shadcn Starter** | ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white) ![Electron Forge](https://img.shields.io/badge/-Electron_Forge-47848F?logo=electron&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Shadcn/UI](https://img.shields.io/badge/-Shadcn_UI-000000?logo=shadcn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/electron-shadcn) |
-| **🚀 Express Microservices Starter** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/express-microservice) |
 | **🚀 Elements Express** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/elements-express) |
 | **🚀 Express MongoDB Boilerplate** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/node-express-mongodb) |
 | **🎨 Expo NativeWind Starter** | ![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white) ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/expo-nativewind) |
 | **🧠 MCP Gearbox CLI** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/mcp-gearbox-cli) |
-| **📦 MCP Gearbox JS** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) | [🔗 GitHub](https://github.com/rohitsoni007/mcp-gearbox-js) |
 
 
 ## 🌍 Connect With Me
